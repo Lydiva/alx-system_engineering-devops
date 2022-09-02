@@ -1,1 +1,1 @@
-wrie a script that prints all the gous the current user is part of
+echo write a script that changes the owner of the file hello to the user betty
