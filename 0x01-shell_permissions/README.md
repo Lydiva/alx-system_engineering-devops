@@ -1,1 +1,1 @@
-write a script that changes the owner to vincentand the group owner to staff for all files and directories in the working directory
+Write a script that changes the owner of the file hello to betty only if it is owned by the user guillaume
