@@ -1,1 +1,1 @@
-write a script that prints the effective username of the current user
+wrie a script that prints all the gous the current user is part of
