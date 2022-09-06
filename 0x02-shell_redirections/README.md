@@ -1,1 +1,1 @@
-Write a shell script that creates a file named exactly \*\'Best School\'\*$\?\*\*\*\*\*:) containing the text Best School ending by a new line.
+create a file that writes into a file. if the file exists it should be overwritten
