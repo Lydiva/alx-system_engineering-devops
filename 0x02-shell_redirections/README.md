@@ -1,1 +1,1 @@
-create a file that writes into a file. if the file exists it should be overwritten
+Write a script that duplicates the last line of the file iacta
